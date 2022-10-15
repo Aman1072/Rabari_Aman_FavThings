@@ -1,0 +1,22 @@
+{
+    "Travel": {
+        "Title":"Travelling",
+        "Text":"I Love Travel",
+        "Description":"I love to travel and explore new places. Every time I visit a new place it would make very positive imapct on my mentality. Different places always teach us something about the culutre and enviornment at differnet locations which is very important to know.",
+        "Image":"travel.webp"
+    },
+
+    "Sport": {
+        "Title":"Playing Sport",
+        "Text":"I love Cricket",
+        "Description":"I always like to play cricket in my free time. Cricket is not just sport in India we  are celebrate and enjoy this game. Everytime I play cricket with my friends i feel very calm and happy because this game is team sport which can help to understand and learn how we can play as team and achieve our goals.",
+        "Image":"vk.jpeg"
+    },
+
+    "Music": {
+        "Title":"Music Listerning",
+        "Text":"I Love Music",
+        "Description":"Music is kind of medicin for me whenever I feel sad or happy I always like to listern music. I came from country which is very rich in music I always love listren Indian classical music because it is very peacful to ears. I listern muisc while cooking and travelling. ",
+        "Image":"download.jpeg"
+    }
+}
